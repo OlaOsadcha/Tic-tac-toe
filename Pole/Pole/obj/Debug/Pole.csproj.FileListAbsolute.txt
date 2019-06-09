@@ -1,0 +1,8 @@
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\Kolko_krzyzyk_z_klasa\Pole\Pole\bin\Debug\Pole.dll
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\Kolko_krzyzyk_z_klasa\Pole\Pole\bin\Debug\Pole.pdb
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\Kolko_krzyzyk_z_klasa\Pole\Pole\obj\Debug\Pole.csprojAssemblyReference.cache
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\Kolko_krzyzyk_z_klasa\Pole\Pole\obj\Debug\Pole.csproj.CoreCompileInputs.cache
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\Kolko_krzyzyk_z_klasa\Pole\Pole\obj\Debug\Pole.dll
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\Kolko_krzyzyk_z_klasa\Pole\Pole\obj\Debug\Pole.pdb
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\Kolko_krzyzyk_z_klasa\Pole\Pole\obj\Debug\Pole.GameButton.resources
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\Kolko_krzyzyk_z_klasa\Pole\Pole\obj\Debug\Pole.csproj.GenerateResource.cache

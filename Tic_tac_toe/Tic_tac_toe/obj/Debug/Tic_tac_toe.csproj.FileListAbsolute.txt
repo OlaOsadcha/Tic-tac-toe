@@ -1,0 +1,13 @@
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\Kolko_krzyzyk_z_klasa\Tic_tac_toe\Tic_tac_toe\bin\Debug\Tic_tac_toe.exe.config
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\Kolko_krzyzyk_z_klasa\Tic_tac_toe\Tic_tac_toe\bin\Debug\Tic_tac_toe.exe
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\Kolko_krzyzyk_z_klasa\Tic_tac_toe\Tic_tac_toe\bin\Debug\Tic_tac_toe.pdb
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\Kolko_krzyzyk_z_klasa\Tic_tac_toe\Tic_tac_toe\obj\Debug\Tic_tac_toe.csprojAssemblyReference.cache
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\Kolko_krzyzyk_z_klasa\Tic_tac_toe\Tic_tac_toe\obj\Debug\Tic_tac_toe.Form1.resources
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\Kolko_krzyzyk_z_klasa\Tic_tac_toe\Tic_tac_toe\obj\Debug\Tic_tac_toe.Properties.Resources.resources
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\Kolko_krzyzyk_z_klasa\Tic_tac_toe\Tic_tac_toe\obj\Debug\Tic_tac_toe.csproj.GenerateResource.cache
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\Kolko_krzyzyk_z_klasa\Tic_tac_toe\Tic_tac_toe\obj\Debug\Tic_tac_toe.csproj.CoreCompileInputs.cache
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\Kolko_krzyzyk_z_klasa\Tic_tac_toe\Tic_tac_toe\obj\Debug\Tic_tac_toe.exe
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\Kolko_krzyzyk_z_klasa\Tic_tac_toe\Tic_tac_toe\obj\Debug\Tic_tac_toe.pdb
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\Kolko_krzyzyk_z_klasa\Tic_tac_toe\Tic_tac_toe\bin\Debug\Pole.dll
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\Kolko_krzyzyk_z_klasa\Tic_tac_toe\Tic_tac_toe\bin\Debug\Pole.pdb
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\Kolko_krzyzyk_z_klasa\Tic_tac_toe\Tic_tac_toe\obj\Debug\Tic_tac_toe.csproj.CopyComplete
